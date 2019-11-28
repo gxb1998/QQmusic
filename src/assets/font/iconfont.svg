@@ -1,0 +1,29 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<!--
+2013-9-30: Created.
+-->
+<svg>
+<metadata>
+Created by iconfont
+</metadata>
+<defs>
+
+<font id="iconfont" horiz-adv-x="1024" >
+  <font-face
+    font-family="iconfont"
+    font-weight="500"
+    font-stretch="normal"
+    units-per-em="1024"
+    ascent="896"
+    descent="-128"
+  />
+    <missing-glyph />
+    
+    <glyph glyph-name="houtui" unicode="&#58919;" d="M659.84 56.32A32 32 0 0 0 640 64L341.12 361.6A33.28 33.28 0 0 0 332.16 384a32 32 0 0 0 8.96 22.4L640 704a32 32 0 1 0 45.44-45.44L408.96 384l273.92-273.92a32 32 0 0 0 0-44.8 32.64 32.64 0 0 0-23.04-8.96zM512-108.8A493.44 493.44 0 1 0 1005.44 384 494.08 494.08 0 0 0 512-108.8zM512 814.08A429.44 429.44 0 1 1 941.44 384 430.08 430.08 0 0 1 512 814.08z"  horiz-adv-x="1024" />
+
+    
+
+
+  </font>
+</defs></svg>
